@@ -1,0 +1,18 @@
+{
+	"appointments":[
+		{
+			"id": "0d04ff1c9eff85795c85239c5a1feebb",
+			"patientId": "PATIENT0001",
+			"startTime": "2019-05-04T09:00:00",
+			"endTime": "2019-05-04T09:30:00",
+			"doctor": "DOCTOR0001"
+		},
+		{
+			"id": "0d04ff1c9eff85795c85239c5a1feebb",
+			"patientId": "PATIENT0002",
+			"startTime": "2019-05-04T09:00:00",
+			"endTime": "2019-05-04T09:30:00",
+			"doctor": "DOCTOR0002"
+		}
+	]
+}
